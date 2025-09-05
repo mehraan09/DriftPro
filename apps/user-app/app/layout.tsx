@@ -15,15 +15,15 @@ const geistMono = localFont({
 
 
 export const metadata: Metadata = {
-  title: "D Coins",
+  title: "Drift Wallet",
   description: "Simple wallet app",
   openGraph: {
-    title: "D-Wallet",
+    title: "Drift-Wallet",
     description: "Well its Faster then the one you use.",
-    url: "https://driftpro.vercel.app", // replace with your site URL
+    url: "https://driftpro.vercel.app", 
     images: [
       {
-        url: "/openG.png", // path to your OG image in public folder
+        url: "/openG.png",
         width: 1200,
         height: 630,
         alt: "D-Wallet App Preview",
